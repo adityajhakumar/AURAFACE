@@ -67,6 +67,9 @@ This project is built with the most popular native mobile cross-platform technic
 - **Lucide React Native** - Beautiful icons
 
 ## How can I test my app?
+<img width="417" height="857" alt="image" src="https://github.com/user-attachments/assets/56e732e0-e17e-4560-8dbe-c1e18a26d757" />
+<img width="439" height="871" alt="image" src="https://github.com/user-attachments/assets/306bab80-b5ca-41e5-8f0c-1604a7af829b" />
+<img width="433" height="869" alt="image" src="https://github.com/user-attachments/assets/a3c2420a-96fa-4a3d-bac2-be497afb462b" />
 
 ### **On your phone (Recommended)**
 
